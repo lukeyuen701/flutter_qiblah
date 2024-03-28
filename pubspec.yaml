@@ -14,7 +14,7 @@ dependencies:
 
   flutter_compass_v2: 
     git:
-      url:https://github.com/lukeyuen701/flutter_compass_v2.git
+      url: https://github.com/lukeyuen701/flutter_compass_v2.git
   
   geolocator: ^11.0.0
   stream_transform: ^2.1.0
